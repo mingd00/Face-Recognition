@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+scipy
+opencv-python
+pickle-mixin
+fer
+moviepy==1.0.3
