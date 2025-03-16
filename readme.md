@@ -87,7 +87,6 @@ uvicorn main:app --reload
 - Tensorflow/Keras
 - OpenCV
 - FastAPI
-- 
 
 ---
 
