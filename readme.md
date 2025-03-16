@@ -1,6 +1,6 @@
 # AI 기반 발표/면접 시스템 - 표정 인식 모델 
 
-## 전체 Workflow
+### 전체 Workflow
 
 [main.py 코드 바로가기](https://github.com/mingd00/Face-Recognition/blob/main/main.py)
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 패키지 설치
+### 패키지 설치
 
 ```
 pip install -r requirements.txt
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 ---
 
-## 실행
+### 실행
 
 ```
 uvicorn main:app --reload
@@ -81,7 +81,7 @@ uvicorn main:app --reload
 
 ---
 
-## 기술스택
+### 기술스택
 
 - Python(Numpy, Pandas, Matplotlib)
 - Tensorflow/Keras
