@@ -90,6 +90,6 @@ uvicorn main:app --reload
 
 ---
 
-## 라이센스
+### 라이센스
 
 https://github.com/fshnkarimi/FaceEmotionRecognition
